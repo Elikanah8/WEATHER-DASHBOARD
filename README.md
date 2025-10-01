@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌤️ Weather Dashboard
 I present to you a simple weather dashboard that you can complete in a day ....cd weather-dashboard
 A beautiful, responsive weather dashboard that provides real-time weather information and 5-day forecasts for any city in the world.
@@ -32,3 +33,7 @@ A beautiful, responsive weather dashboard that provides real-time weather inform
 1. Clone this repository:
 ```bash
    git clone https://github.com/YOUR_USERNAME/weather-dashboard.git
+=======
+# WEATHER-DASHBOARD
+simple dashboard made via html5  , CSS3 ,Vanilla JavaScript  and OpenWeatherMap API
+>>>>>>> 61a53b7127adcd638d3d36b1881ad4ba7af631ee
